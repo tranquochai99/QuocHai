@@ -1,0 +1,80 @@
+#container {
+    color: rgb(103, 4, 126);
+    font-size: 100px;
+    width: 1500px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:auto;
+    background-color: rgb(210, 161, 239,1);
+    outline-color: rgb(210, 161, 239,1);
+}
+
+.taskba{
+    display: flex;
+    width: 1500px;
+    height: 100px;
+    margin:auto;
+    justify-content: flex start;
+    background-color: rgb(103, 4, 126);
+}
+
+.item-1 {
+    font-size: 50px;
+    color: white;
+    margin-right: 20px;
+    margin-left: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.item-2 {
+    font-size: 50px;
+    color: white;
+    margin-right: 20px;
+    margin-left: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.item-3 {
+    font-size: 50px;
+    color: white;
+    margin-right: 20px;
+    margin-left: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.body {
+    width: 1500px;
+    margin: auto;
+}
+
+.heading-1 {
+    font-size: 55px;
+    margin-left: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.content-1 {
+    margin-left: 20px;
+    font-size: 30px;
+}
+
+.heading-2 {
+    font-size: 55px;
+    margin-left: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.content-2 {
+    margin-left: 20px;
+    font-size: 30px;
+}

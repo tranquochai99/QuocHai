@@ -1,0 +1,100 @@
+
+.container {
+   margin-top: 30px ;
+   padding: 100px;
+   background-color: azure;
+   display: flex;
+   justify-content: space-around;
+}
+
+.frame-1, .frame-2, .frame-3 {
+    margin-left: 20px;
+}
+
+.frame-1 {
+    flex-grow: 1.5;
+}
+
+.cell-1 {
+    background-color: red;
+    margin-bottom: 20px;
+    height: 50px;
+}
+
+.cell-2 {
+    background-color: orange;
+    height: 100px;
+}
+
+.frame-2 {
+    flex-grow: 3;
+}
+
+.block-3 {
+    margin-bottom: 20px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+}
+.cell-3 {
+    background-color: rgb(12, 167, 167);
+    margin-right: 20px;
+    height: 50px;
+    flex-grow: 3;
+}
+
+.cell-4 {
+    background-color: green;
+    height: 100%;
+    flex-grow: 1;
+}
+
+.block-4 {
+    height: 100px;
+    flex-grow: 3;
+}
+
+.cell-5 {
+    background-color: rgb(239, 116, 67);
+    height: 100px;
+}
+
+.frame-3 {
+    flex-grow: 2;
+    display: flex;
+    justify-content: center;
+}
+
+.block-5 {
+    height: 170px;
+    flex-grow: 3;
+}
+
+.cell-6 {
+    height: 170px;
+    background-color: rgb(39, 116, 238);
+}
+
+.block-6 {
+    height: 170px;
+    flex-grow: 6;
+    margin-left: 20px;
+}
+
+.cell-7 {
+    height: 170px;
+    background-color: rgb(12, 47, 165);
+}
+
+.block-7 {
+    height: 170px;
+    flex-grow: 1;
+    margin-left: 20px;
+}
+
+.cell-8 {
+    height: 170px;
+    background-color: rgb(112, 168, 247);
+}
+
+
