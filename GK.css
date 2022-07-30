@@ -1,0 +1,21 @@
+#random{
+    color: black;
+    font-size: 50px;
+    width: 300px;
+    height: 80px;
+}
+.x {
+    color: black;
+    font-size: 200px;
+    text-align: center;
+    text-transform: uppercase;
+ }
+#h2{
+    background-color: rgba(30, 227, 162, 0.927);
+    width: 100%;
+    text-align: center;
+    height: 300px;
+    font-size: 54px;
+    padding-top: 130px;
+    
+}
